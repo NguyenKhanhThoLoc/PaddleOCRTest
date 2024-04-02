@@ -1,4 +1,4 @@
-import Paddle
+import src.package.Paddle as Paddle
 
 img_path = '254.jpg'
 
